@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "225675249640",
+    "firebase_url": "https://send-data-firebase-ee4fb-default-rtdb.firebaseio.com",
+    "project_id": "send-data-firebase-ee4fb",
+    "storage_bucket": "send-data-firebase-ee4fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225675249640:android:15a5cd309f30a37e15865d",
+        "android_client_info": {
+          "package_name": "com.example.babycraddleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWJMx3AC2A2QKlVuatuKOwhkpTZBXfu-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
